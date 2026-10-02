@@ -1,0 +1,11 @@
+{
+  "org": "block",
+  "repo": "devkit",
+  "versions": [
+    {
+      "commit": "b3e02e9a8b89f8bcae9f22ce4c466b1827b29804",
+      "tag": "main",
+      "parsed_at": "2026-10-02T11:21:28.587410+00:00"
+    }
+  ]
+}
