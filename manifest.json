@@ -44,6 +44,36 @@
       ],
       "ast": [
         "aggregate/ast/b3e02e9a8b89f8bcae9f22ce4c466b1827b29804/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/b3e02e9a8b89f8bcae9f22ce4c466b1827b29804.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "anyhow",
+          "ecosystem": "CARGO",
+          "version": "1",
+          "githubOrg": "dtolnay",
+          "githubRepo": "anyhow",
+          "githubUrl": "https://github.com/dtolnay/anyhow",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "clap",
+          "ecosystem": "CARGO",
+          "version": "4",
+          "githubOrg": "clap-rs",
+          "githubRepo": "clap",
+          "githubUrl": "https://github.com/clap-rs/clap",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "tempfile",
+          "ecosystem": "CARGO",
+          "version": "3",
+          "githubOrg": "Stebalien",
+          "githubRepo": "tempfile",
+          "githubUrl": "https://github.com/Stebalien/tempfile",
+          "source": "build_file:Cargo.toml"
+        }
       ]
     }
   ],
