@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/block/devkit/commit/b3e02e9a8b89f8bcae9f22ce4c466b1827b29804",
       "git:hexsha": "b3e02e9a8b89f8bcae9f22ce4c466b1827b29804",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "main"
     }
   ]
