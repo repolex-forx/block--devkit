@@ -1,0 +1,15 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/block/devkit",
+  "@type": "gh:Repository",
+  "gh:name": "devkit",
+  "gh:owner": "block",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/block/devkit/commit/b3e02e9a8b89f8bcae9f22ce4c466b1827b29804",
+      "git:hexsha": "b3e02e9a8b89f8bcae9f22ce4c466b1827b29804",
+      "repolex:parseStatus": "metadata_complete",
+      "git:tagName": "main"
+    }
+  ]
+}
